@@ -1,0 +1,50 @@
+.nav{
+    border: 2px solid red;
+    background-color: red;
+    color: white;
+    height: 100px;
+}
+.icon{
+    width: 50px;
+}
+.navbar{
+    display:flex;
+    background-color: rgb(194, 186, 186);
+    color: rgb(117, 47, 184);
+    list-style: none;
+    
+}
+.navbar li{
+    list-style: none;
+}
+
+.navbar ul li{
+    display:inline;
+margin: 20px;
+
+}
+.heading{
+    display: flex;
+    background-color: rgb(86, 250, 86);
+    float: left 40%;
+
+}
+.para{
+    float: left 30%;
+}
+.sidebar{
+    border: 2px solid black;
+    float: right;
+    background-color: white;
+ margin: 2px;
+ 
+}
+.footer{
+    display: flex;
+    background-color: black;
+    color: gold;
+    justify-content: center;
+}
+
+
+
